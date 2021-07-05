@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'FullProject';
+  // storedPost : any = [];
+
+  // storePost(val : any){
+  //   console.log(val);
+  //   this.storedPost.push(val);
+  //   console.log(this.storedPost);
+
+  // }
 }
